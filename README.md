@@ -11,7 +11,3 @@
 | ------ | ------ | --------- | ------------------------------------------------- | --------------------------------- |
 | 提前批 | 京东   | 6.15-7.15 | https://mp.weixin.qq.com/s/WN4H42Bg-_jxrZf2tEzfZg | https://campus.jd.com/#/          |
 | 正式批 | 英特尔 | 6月中起   | https://mp.weixin.qq.com/s/CNbisnPXWzWSekowf0PBxw | https://chinacampus.jobs.intel.cn |
-|        |        |           |                                                   |                                   |
-|        |        |           |                                                   |                                   |
-|        |        |           |                                                   |                                   |
-
