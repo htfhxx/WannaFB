@@ -24,5 +24,6 @@ issue格式为：
 | 正式批 | 英特尔 | 6月中起   | https://mp.weixin.qq.com/s/CNbisnPXWzWSekowf0PBxw | https://chinacampus.jobs.intel.cn |
 | 提前批 | Shopee研发中心   | 6.21-8.1 | [公众号推送](https://mp.weixin.qq.com/s?__biz=MzU0MjgzMDAxOA==&mid=2247491532&idx=1&sn=c25d07b21ee859198165b60612c4defb&chksm=fb15e361cc626a77a1b994e329e50c97e633471a9c30a86212d06a21eb883bf9d4f3fb33b6d2&mpshare=1&scene=23&srcid=06224Pj5DKVLQ67pQQyLqWOp&sharer_sharetime=1624354855575&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | app.mokahr.com/campus_apply/shopee/2962         |
 | 提前批 | 360 | 已经开始了| https://mp.weixin.qq.com/s/CYeQvOjAt-IY0lld6M5slw | https://www.nowcoder.com/careers/360/65521 绝了竟然是牛客投递      |
+| 提前批 | 小米（硬件研发和自动驾驶） | 已经开始了 | https://mp.weixin.qq.com/s/v8cuJH2iJAOOyd4t9bL1kQ | http://campus.hr.xiaomi.com/campus_apply/xiaomi/286/#/    |
 
 
