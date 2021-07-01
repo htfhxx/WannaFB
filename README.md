@@ -21,7 +21,7 @@ issue格式为：
 
 | 批次   | 公司   | 截止日期  | 通知链接                                          | 网申链接                          |
 | ------ | ------ | --------- | ------------------------------------------------- | --------------------------------- |
-| 特殊计划 | 小米未来星 | \ |[公众号推送](https://mp.weixin.qq.com/s?__biz=MzU5ODI4OTgwNA==&mid=2247490385&idx=1&sn=e203133a5d6e282890cee90a8c9f05b2&chksm=fe4727b2c930aea4126cac05392317003366296f6a473dc2be0edded26906e5327b94e6b869b&mpshare=1&scene=23&srcid=0630L6RHY8YvmWCsjfZBsDiT&sharer_sharetime=1625022482434&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd)| [投递链接](https://app.mokahr.com/campus_apply/xiaomi/286?code=081GeLll2U0tj74KEaml2zcf4G0GeLlH&state=personalCenter#/jobs?project=100006406&page=1)   |
+| 特殊计划 | 小米未来星 | / |[公众号推送](https://mp.weixin.qq.com/s?__biz=MzU5ODI4OTgwNA==&mid=2247490385&idx=1&sn=e203133a5d6e282890cee90a8c9f05b2&chksm=fe4727b2c930aea4126cac05392317003366296f6a473dc2be0edded26906e5327b94e6b869b&mpshare=1&scene=23&srcid=0630L6RHY8YvmWCsjfZBsDiT&sharer_sharetime=1625022482434&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd)| [投递链接](https://app.mokahr.com/campus_apply/xiaomi/286?code=081GeLll2U0tj74KEaml2zcf4G0GeLlH&state=personalCenter#/jobs?project=100006406&page=1)   |
 | 特殊计划 | 腾讯大咖 |全年招聘、 6-8月hc多 | [推送链接](https://join.qq.com/news_detail.html?id=248) |  官网还没更新 |
 | 特殊计划 | 天才少年 | / | [推送链接](https://career.huawei.com/reccampportal/portal5/newsInfo_11.html)  |   [投递链接](https://career.huawei.com/reccampportal/portal5/topminds.html)  |
 |  |  | |  |   |
@@ -36,5 +36,5 @@ issue格式为：
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
-| 正式批 | 英特尔 | \   | [推送链接](https://mp.weixin.qq.com/s/CNbisnPXWzWSekowf0PBxw) | [投递链接](https://chinacampus.jobs.intel.cn) |
+| 正式批 | 英特尔 | /  | [推送链接](https://mp.weixin.qq.com/s/CNbisnPXWzWSekowf0PBxw) | [投递链接](https://chinacampus.jobs.intel.cn) |
 
