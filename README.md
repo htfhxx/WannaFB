@@ -1,6 +1,6 @@
 ### WannaFB
 
-2021计算机提前批、正式批的网申/内推收集
+2022计算机提前批、正式批的网申/内推收集
 
 
 虽然召集了一堆小伙伴一起搜集信息，但是为了防止重要招聘信息遗漏，欢迎大家贡献信息。
@@ -25,7 +25,7 @@ issue格式为：
 | 特殊计划 | 腾讯大咖 |全年招聘、 6-8月hc多 | [推送链接](https://join.qq.com/news_detail.html?id=248) |  官网还没更新 |
 | 特殊计划 | 华为天才少年 | / | [推送链接](https://career.huawei.com/reccampportal/portal5/newsInfo_11.html)  |   [投递链接](https://career.huawei.com/reccampportal/portal5/topminds.html)  | 
 | 特殊计划 | 拼多多拼越计划 | 7.31 | [推送链接](https://mp.weixin.qq.com/s/0yAbRdp8HjTIpYi_AhQAUg)  |   [投递链接](https://careers.pinduoduo.com/campus/grad?name=&type=fullTime&recruitType=&job=technology)  | 
-| 特殊计划 | 美团北斗计划 | 7.31 | [推送链接](https://mp.weixin.qq.com/s/YSQWGBzr3CpNR-vbth29pQ)  |   [投递链接](https://campus.meituan.com/beidou)  | 
+| 特殊计划 | 美团北斗计划 | 10.24 | [推送链接](https://mp.weixin.qq.com/s/YSQWGBzr3CpNR-vbth29pQ)  |   [投递链接](https://campus.meituan.com/beidou)  | 
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
