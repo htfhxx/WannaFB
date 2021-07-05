@@ -47,4 +47,5 @@ issue格式为：
 |  |  | |  |   |
 |  |  | |  |   |
 | 正式批 | 英特尔 | /  | [推送链接](https://mp.weixin.qq.com/s/CNbisnPXWzWSekowf0PBxw) | [投递链接](https://chinacampus.jobs.intel.cn) |
+| 正式批 | 百度 | 10.15  | [推送链接](https://talent.baidu.com/external/baidu/campus.html#/process) | [投递链接](https://talent.baidu.com/external/baidu/campus.html#/jobList) |
 
