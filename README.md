@@ -36,6 +36,7 @@ issue格式为：
 | 提前批 | Shopee研发中心   | 8.1 | [公众号推送](https://mp.weixin.qq.com/s?__biz=MzU0MjgzMDAxOA==&mid=2247491532&idx=1&sn=c25d07b21ee859198165b60612c4defb&chksm=fb15e361cc626a77a1b994e329e50c97e633471a9c30a86212d06a21eb883bf9d4f3fb33b6d2&mpshare=1&scene=23&srcid=06224Pj5DKVLQ67pQQyLqWOp&sharer_sharetime=1624354855575&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | [投递链接](https://app.mokahr.com/campus_apply/shopee/2962#/)         |
 | 提前批 | 百度 | 8.27  | [推送链接](https://mp.weixin.qq.com/s/LaRfwr33G0rXnjzekl8wsQ) | [投递链接](https://talent.baidu.com/external/baidu/campus.html#/jobList) |
 | 提前批 | 字节 | 8.1 | [推送链接](https://mp.weixin.qq.com/s/BE3a5_SCKNuxsGtrHC1pIw) | [投递链接](https://jobs.bytedance.com/campus/?spread=728BR6V) |
+| 提前批 | 爱奇艺 | 8.4| [推送链接](https://campus.iqiyi.com/campus_apply/iqiyi/36804#/) |  [投递链接]( https://campus.iqiyi.com/campus_apply/iqiyi/36804#/jobs) |
 | 提前批 | 拼多多 | |  |   |
 | 提前批 | 网易 | |  |   |
 | 提前批 | 搜狗 | |  |   |
