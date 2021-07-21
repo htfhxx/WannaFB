@@ -30,9 +30,9 @@ issue格式为：
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
-~~| 提前批 | 360 | / | [推送链接](https://mp.weixin.qq.com/s/CYeQvOjAt-IY0lld6M5slw) | [绝了竟然是牛客投递](https://www.nowcoder.com/careers/360/65521)       |手慢无，呜呜呜|~~
+| 提前批 | ~~360~~ | / | [推送链接](https://mp.weixin.qq.com/s/CYeQvOjAt-IY0lld6M5slw) | [绝了竟然是牛客投递](https://www.nowcoder.com/careers/360/65521)       |手慢无，呜呜呜|
 | 提前批 | 京东   | 7.15 | [推送链接](https://mp.weixin.qq.com/s/WN4H42Bg-_jxrZf2tEzfZg) | [投递链接](https://campus.jd.com/#/)          |网申7.15ddl,其实内推7.30ddl |
-~~| 提前批 | 商汤 | 7.15| [推送链接](https://mp.weixin.qq.com/s/OQ7uxWnZ9U6DbRDSk9zcmQ) | [投递链接](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html)  | ~~
+| 提前批 | ~~商汤~~ | 7.15| [推送链接](https://mp.weixin.qq.com/s/OQ7uxWnZ9U6DbRDSk9zcmQ) | [投递链接](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html)  | 
 | 提前批 | Shopee研发中心   | 8.1 | [公众号推送](https://mp.weixin.qq.com/s?__biz=MzU0MjgzMDAxOA==&mid=2247491532&idx=1&sn=c25d07b21ee859198165b60612c4defb&chksm=fb15e361cc626a77a1b994e329e50c97e633471a9c30a86212d06a21eb883bf9d4f3fb33b6d2&mpshare=1&scene=23&srcid=06224Pj5DKVLQ67pQQyLqWOp&sharer_sharetime=1624354855575&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | [投递链接](https://app.mokahr.com/campus_apply/shopee/2962#/)         |
 | 提前批 | 百度 | 8.27  | [推送链接](https://mp.weixin.qq.com/s/LaRfwr33G0rXnjzekl8wsQ) | [投递链接](https://talent.baidu.com/external/baidu/campus.html#/jobList) |
 | 提前批 | 字节 | 8.1 | [推送链接](https://mp.weixin.qq.com/s/BE3a5_SCKNuxsGtrHC1pIw) | [投递链接](https://jobs.bytedance.com/campus/?spread=728BR6V) |
