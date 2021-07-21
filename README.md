@@ -37,17 +37,13 @@ issue格式为：
 | 提前批 | 百度 | 8.27  | [推送链接](https://mp.weixin.qq.com/s/LaRfwr33G0rXnjzekl8wsQ) | [投递链接](https://talent.baidu.com/external/baidu/campus.html#/jobList) |
 | 提前批 | 字节 | 8.1 | [推送链接](https://mp.weixin.qq.com/s/BE3a5_SCKNuxsGtrHC1pIw) | [投递链接](https://jobs.bytedance.com/campus/?spread=728BR6V) |
 | 提前批 | 爱奇艺 | 8.4| [推送链接](https://campus.iqiyi.com/campus_apply/iqiyi/36804#/) |  [投递链接]( https://campus.iqiyi.com/campus_apply/iqiyi/36804#/jobs) |
-| 提前批 | 拼多多 | |  |   |
-| 提前批 | 网易 | |  |   |
-| 提前批 | 搜狗 | |  |   |
-| 提前批 | 百度 | |  |   |
-| 提前批 | 快手 | |  |   |
-| 提前批 | 阿里 | |  |   |
-| 提前批 | 腾讯 | |  |   |
-| 提前批 | 美团 | |  |   |
+| 提前批 | 联想？ | 8.20 |  [推送链接](https://mp.weixin.qq.com/s/WHUkBrhU_xq60NMLcH6fJw) |  [投递链接](http://talent.lenovo.com.cn/)  |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
+| 正式批 | 阿里巴巴 |  / | [推送链接](https://mp.weixin.qq.com/s?__biz=MzUzNDc1MDg1Ng==&mid=2247485455&idx=1&sn=ebcd834b8f3eaedf0901fa5f6e6d2635&chksm=fa8ebbe8cdf932fe6c98412c55e08405862e5903106140a4a7cc583ee46aea3a203eef53c7b4&mpshare=1&scene=23&srcid=0721tS1mS48kyMFJxBzPt6Yz&sharer_sharetime=1626880663506&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | [投递链接](https://talent.alibaba.com/)  |
+| 正式批 | OPPO | 7月-10月 | [推送链接](https://mp.weixin.qq.com/s/ogxZJGahjiWqfZuYADHipw) | [投递链接](http://careers.oppo.com/campus)  |
 | 正式批 | 英特尔 | /  | [推送链接](https://mp.weixin.qq.com/s/CNbisnPXWzWSekowf0PBxw) | [投递链接](https://chinacampus.jobs.intel.cn) |
 | 正式批 | BIGO | 7.6起，7月下旬笔试面试  | [推送链接](https://mp.weixin.qq.com/s/lY1lL1F7mq8hCO_BD8EZxQ) | [投递链接](https://app.mokahr.com/campus_apply/bigo/1018?sourceToken=54b80ee498e4fbea391a2a0c46885c72#/?anchorName=default_banner&sourceToken=) |
+| 正式批 | 联想？ | 9.17 | [推送链接](https://mp.weixin.qq.com/s/WHUkBrhU_xq60NMLcH6fJw) | [投递链接](http://talent.lenovo.com.cn/)  |
