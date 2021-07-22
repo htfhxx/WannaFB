@@ -48,4 +48,5 @@ issue格式为：
 | 正式批 | BIGO | 7.6起，7月下旬笔试面试  | [推送链接](https://mp.weixin.qq.com/s/lY1lL1F7mq8hCO_BD8EZxQ) | [投递链接](https://app.mokahr.com/campus_apply/bigo/1018?sourceToken=54b80ee498e4fbea391a2a0c46885c72#/?anchorName=default_banner&sourceToken=) |
 | 正式批 | 联想 | 9.17 | [推送链接](https://mp.weixin.qq.com/s/WHUkBrhU_xq60NMLcH6fJw) | [投递链接](http://talent.lenovo.com.cn/)  |
 | 正式批 | 搜狐 |/ | [推送链接](https://mp.weixin.qq.com/s/AKkh-64Pubjmurk8Npqm-Q) | 必须内推？就离谱 |
+| 正式批 | 米哈游 |/ | [推送链接](https://mp.weixin.qq.com/s/ty8uQL-QD8_wkNCDN2dEgQ) |  [投递链接](https://join.mihoyo.com/campus_apply/mihoyo/7525/#/) |
 
