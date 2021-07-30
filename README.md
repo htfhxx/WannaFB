@@ -11,14 +11,18 @@
 | 特殊计划 | 美团北斗计划 | 10.24 | [推送链接](https://mp.weixin.qq.com/s/YSQWGBzr3CpNR-vbth29pQ)  |   [投递链接](https://campus.meituan.com/beidou)  | 据说普通计划投递也能评级为特殊计划 | 
 | 特殊计划 | 商汤AI先锋卓越人才项目 | / | [推送链接](https://mp.weixin.qq.com/s?__biz=MzIzMTY1NTU1MA==&mid=2247488655&idx=1&sn=2090e9044938818e7a54fe2ef744cc05&chksm=e8a1859edfd60c88f908f9fe07d0f2ef3adc2bab7c89c3eb2ecd515ef67e4d6af27ac8cb3f9f&mpshare=1&scene=23&srcid=0729GVlHgLm2Hdf06IXPyMe0&sharer_sharetime=1627556047508&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd)  |   [投递链接](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html?projectCode=100501)  | 不清楚含金量如何 | 
 |  |  | |  |   |
+|  |  | |  |   |
+|  |  | |  |   |
 | 提前批 | ~~360~~ | / | [推送链接](https://mp.weixin.qq.com/s/CYeQvOjAt-IY0lld6M5slw) | [绝了竟然是牛客投递](https://www.nowcoder.com/careers/360/65521)       |手慢无，呜呜呜|
 | 提前批 | ~~商汤~~ | 7.15| [推送链接](https://mp.weixin.qq.com/s/OQ7uxWnZ9U6DbRDSk9zcmQ) | [投递链接](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html)  | 
-| 提前批 | 京东   | 7.15 | [推送链接](https://mp.weixin.qq.com/s/WN4H42Bg-_jxrZf2tEzfZg) | [投递链接](https://campus.jd.com/#/)          |网申7.15ddl,其实内推7.30 ddl |
-| 提前批 | Shopee研发中心   | 8.1 | [公众号推送](https://mp.weixin.qq.com/s?__biz=MzU0MjgzMDAxOA==&mid=2247491532&idx=1&sn=c25d07b21ee859198165b60612c4defb&chksm=fb15e361cc626a77a1b994e329e50c97e633471a9c30a86212d06a21eb883bf9d4f3fb33b6d2&mpshare=1&scene=23&srcid=06224Pj5DKVLQ67pQQyLqWOp&sharer_sharetime=1624354855575&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | [投递链接](https://app.mokahr.com/campus_apply/shopee/2962#/)         |
+| 提前批 | ~~京东~~   | 7.15 | [推送链接](https://mp.weixin.qq.com/s/WN4H42Bg-_jxrZf2tEzfZg) | [投递链接](https://campus.jd.com/#/)          |网申7.15ddl,其实内推7.30 ddl |
+| 提前批 | ~~Shopee研发中心~~   | 8.1 | [公众号推送](https://mp.weixin.qq.com/s?__biz=MzU0MjgzMDAxOA==&mid=2247491532&idx=1&sn=c25d07b21ee859198165b60612c4defb&chksm=fb15e361cc626a77a1b994e329e50c97e633471a9c30a86212d06a21eb883bf9d4f3fb33b6d2&mpshare=1&scene=23&srcid=06224Pj5DKVLQ67pQQyLqWOp&sharer_sharetime=1624354855575&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | [投递链接](https://app.mokahr.com/campus_apply/shopee/2962#/)         |
 | 提前批 | 百度 | 8.27  | [推送链接](https://mp.weixin.qq.com/s/LaRfwr33G0rXnjzekl8wsQ) | [投递链接](https://talent.baidu.com/external/baidu/campus.html#/jobList) |
-| 提前批 | 字节 | 8.1 | [推送链接](https://mp.weixin.qq.com/s/BE3a5_SCKNuxsGtrHC1pIw) | [投递链接](https://jobs.bytedance.com/campus/?spread=728BR6V) |
+| 提前批 | ~~字节~~ | 8.1 | [推送链接](https://mp.weixin.qq.com/s/BE3a5_SCKNuxsGtrHC1pIw) | [投递链接](https://jobs.bytedance.com/campus/?spread=728BR6V) |
 | 提前批 | 爱奇艺 | 8.4| [推送链接](https://campus.iqiyi.com/campus_apply/iqiyi/36804#/) |  [投递链接]( https://campus.iqiyi.com/campus_apply/iqiyi/36804#/jobs) |
 | 提前批 | 联想 | 8.20 |  [推送链接](https://mp.weixin.qq.com/s/WHUkBrhU_xq60NMLcH6fJw) |  [投递链接](http://talent.lenovo.com.cn/)  |
+|  |  | |  |   |
+|  |  | |  |   |
 |  |  | |  |   |
 | 正式批 | 阿里巴巴 |  / | [推送链接](https://mp.weixin.qq.com/s?__biz=MzUzNDc1MDg1Ng==&mid=2247485455&idx=1&sn=ebcd834b8f3eaedf0901fa5f6e6d2635&chksm=fa8ebbe8cdf932fe6c98412c55e08405862e5903106140a4a7cc583ee46aea3a203eef53c7b4&mpshare=1&scene=23&srcid=0721tS1mS48kyMFJxBzPt6Yz&sharer_sharetime=1626880663506&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | [投递链接](https://talent.alibaba.com/)  |
 | 正式批 | OPPO | 7月-10月 | [推送链接](https://mp.weixin.qq.com/s/ogxZJGahjiWqfZuYADHipw) | [投递链接](http://careers.oppo.com/campus)  |
@@ -28,5 +32,6 @@
 | 正式批 | 搜狐 |/ | [推送链接](https://mp.weixin.qq.com/s/AKkh-64Pubjmurk8Npqm-Q) | 必须内推？就离谱 |
 | 正式批 | 米哈游 |/ | [推送链接](https://mp.weixin.qq.com/s/ty8uQL-QD8_wkNCDN2dEgQ) |  [投递链接](https://join.mihoyo.com/campus_apply/mihoyo/7525/#/) |
 | 正式批 | 网易 |9.16(8.19内推ddl) | [推送链接](https://mp.weixin.qq.com/s?__biz=MzAxNDIzMDQwNg==&mid=2651379506&idx=1&sn=c048289292ee1dacee94003da7970438&chksm=806a01dbb71d88cdbaadbc98dd41bf6a4f2c1d15e18975628a072e5562d3c71c927d83a1889e&mpshare=1&scene=23&srcid=0730Zkzwz8mTKnVzH57P2l3C&sharer_sharetime=1627634430219&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) |  [投递链接](https://campus.163.com/app/index) |
+|  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
