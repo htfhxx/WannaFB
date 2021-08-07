@@ -8,6 +8,7 @@
 | 特殊计划 | 腾讯大咖 |全年招聘、 6-8月hc多 | [推送链接](https://join.qq.com/news_detail.html?id=248) |  官网还没更新 |据说普通计划投递也能评级为特殊计划 | 
 | 特殊计划 | 华为天才少年 | / | [推送链接](https://career.huawei.com/reccampportal/portal5/newsInfo_11.html)  |   [投递链接](https://career.huawei.com/reccampportal/portal5/topminds.html)  | 
 | 特殊计划 | 美团北斗计划 | 10.24 | [推送链接](https://mp.weixin.qq.com/s/YSQWGBzr3CpNR-vbth29pQ)  |   [投递链接](https://campus.meituan.com/beidou)  | 据说普通计划投递也能评级为特殊计划 | 
+| 特殊计划 |百度AIDU技术精英 | / | [推送链接](https://mp.weixin.qq.com/s/nkeDX-8R41gqHjZRCIEKWw)  |  邮箱投递  | 与提前批正式批不冲突 | 
 | 特殊计划 | 商汤AI先锋卓越人才项目 | / | [推送链接](https://mp.weixin.qq.com/s?__biz=MzIzMTY1NTU1MA==&mid=2247488655&idx=1&sn=2090e9044938818e7a54fe2ef744cc05&chksm=e8a1859edfd60c88f908f9fe07d0f2ef3adc2bab7c89c3eb2ecd515ef67e4d6af27ac8cb3f9f&mpshare=1&scene=23&srcid=0729GVlHgLm2Hdf06IXPyMe0&sharer_sharetime=1627556047508&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd)  |   [投递链接](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html?projectCode=100501)  | 不清楚含金量如何 | 
 | 特殊计划 | ~~拼多多拼越计划~~ | 7.31 | [推送链接](https://mp.weixin.qq.com/s/0yAbRdp8HjTIpYi_AhQAUg)  |   [投递链接](https://careers.pinduoduo.com/campus/grad?name=&type=fullTime&recruitType=&job=technology)  | 
 |  |  | |  |   |
@@ -34,6 +35,7 @@
 | 正式批 | 搜狐 |/ | [推送链接](https://mp.weixin.qq.com/s/AKkh-64Pubjmurk8Npqm-Q) | 必须内推？就离谱 |
 | 正式批 | 米哈游 |/ | [推送链接](https://mp.weixin.qq.com/s/ty8uQL-QD8_wkNCDN2dEgQ) |  [投递链接](https://join.mihoyo.com/campus_apply/mihoyo/7525/#/) |
 | 正式批 | 网易 |9.16(8.19内推ddl) | [推送链接](https://mp.weixin.qq.com/s?__biz=MzAxNDIzMDQwNg==&mid=2651379506&idx=1&sn=c048289292ee1dacee94003da7970438&chksm=806a01dbb71d88cdbaadbc98dd41bf6a4f2c1d15e18975628a072e5562d3c71c927d83a1889e&mpshare=1&scene=23&srcid=0730Zkzwz8mTKnVzH57P2l3C&sharer_sharetime=1627634430219&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) |  [投递链接](https://campus.163.com/app/index) |
+| 正式批 |360 |10.24最后一次笔试 | [推送链接](https://mp.weixin.qq.com/s/gTVqwtth3mY_FLKVKAhZfg) |  [投递链接](http://campus.360.com/) |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
