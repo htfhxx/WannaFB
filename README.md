@@ -26,6 +26,9 @@
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
+| 正式批 | 腾讯 |  / | [推送链接](https://mp.weixin.qq.com/s/pURMI_W2BsqSiVY6YrA3wA) | [投递链接](https://join.qq.com/)  |
+| 正式批 | 百度 |  10.15最后一批 | [推送链接](https://mp.weixin.qq.com/s/GenI_uQ2-WYc_t1K67HwpQ) | [投递链接](https://talent.baidu.com/)  |
+| 正式批 | 华为 |  / | [推送链接](https://mp.weixin.qq.com/s/P7kjKmZGPitN7m3wF666YA) | [投递链接](https://career.huawei.com/reccampportal/portal5/index.html)  |
 | 正式批 | 阿里巴巴 |  / | [推送链接](https://mp.weixin.qq.com/s?__biz=MzUzNDc1MDg1Ng==&mid=2247485455&idx=1&sn=ebcd834b8f3eaedf0901fa5f6e6d2635&chksm=fa8ebbe8cdf932fe6c98412c55e08405862e5903106140a4a7cc583ee46aea3a203eef53c7b4&mpshare=1&scene=23&srcid=0721tS1mS48kyMFJxBzPt6Yz&sharer_sharetime=1626880663506&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | [投递链接](https://talent.alibaba.com/)  |
 | 正式批 | 美团 |  10.17最后一场笔试 | [推送链接](https://mp.weixin.qq.com/s/ul5zoluJIgjm5I-JlQsNBw) | [投递链接](https://campus.meituan.com/)  |
 | 正式批 | OPPO | 7月-10月 | [推送链接](https://mp.weixin.qq.com/s/ogxZJGahjiWqfZuYADHipw) | [投递链接](http://careers.oppo.com/campus)  |
