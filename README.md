@@ -11,6 +11,7 @@
 | 特殊计划 |百度AIDU技术精英 | / | [推送链接](https://mp.weixin.qq.com/s/nkeDX-8R41gqHjZRCIEKWw)  |  邮箱投递  | 与提前批正式批不冲突 | 
 | 特殊计划 | 商汤AI先锋卓越人才项目 | / | [推送链接](https://mp.weixin.qq.com/s?__biz=MzIzMTY1NTU1MA==&mid=2247488655&idx=1&sn=2090e9044938818e7a54fe2ef744cc05&chksm=e8a1859edfd60c88f908f9fe07d0f2ef3adc2bab7c89c3eb2ecd515ef67e4d6af27ac8cb3f9f&mpshare=1&scene=23&srcid=0729GVlHgLm2Hdf06IXPyMe0&sharer_sharetime=1627556047508&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd)  |   [投递链接](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html?projectCode=100501)  | 不清楚含金量如何 | 
 | 特殊计划 | ~~拼多多拼越计划~~ | 7.31 | [推送链接](https://mp.weixin.qq.com/s/0yAbRdp8HjTIpYi_AhQAUg)  |   [投递链接](https://careers.pinduoduo.com/campus/grad?name=&type=fullTime&recruitType=&job=technology)  | 
+| 特殊计划 | 快Star |  / | [推送链接](https://mp.weixin.qq.com/s/GkvpOIYRC36sUNe9mOJO1w) | [投递链接](https://campus.kuaishou.cn/#/campus/index)  |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
@@ -27,6 +28,7 @@
 |  |  | |  |   |
 |  |  | |  |   |
 | 正式批 | 腾讯 |  / | [推送链接](https://mp.weixin.qq.com/s/pURMI_W2BsqSiVY6YrA3wA) | [投递链接](https://join.qq.com/)  |
+| 正式批 | 快手 |  / | [推送链接](https://mp.weixin.qq.com/s/3Lp2AwOJIjmNmp4O9L63bw) | [投递链接](https://campus.kuaishou.cn/#/campus/index)  |
 | 正式批 | 百度 |  10.15最后一批 | [推送链接](https://mp.weixin.qq.com/s/GenI_uQ2-WYc_t1K67HwpQ) | [投递链接](https://talent.baidu.com/)  |
 | 正式批 | 华为 |  / | [推送链接](https://mp.weixin.qq.com/s/P7kjKmZGPitN7m3wF666YA) | [投递链接](https://career.huawei.com/reccampportal/portal5/index.html)  |
 | 正式批 | 阿里巴巴 |  / | [推送链接](https://mp.weixin.qq.com/s?__biz=MzUzNDc1MDg1Ng==&mid=2247485455&idx=1&sn=ebcd834b8f3eaedf0901fa5f6e6d2635&chksm=fa8ebbe8cdf932fe6c98412c55e08405862e5903106140a4a7cc583ee46aea3a203eef53c7b4&mpshare=1&scene=23&srcid=0721tS1mS48kyMFJxBzPt6Yz&sharer_sharetime=1626880663506&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd) | [投递链接](https://talent.alibaba.com/)  |
