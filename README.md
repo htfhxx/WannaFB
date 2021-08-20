@@ -5,9 +5,9 @@
 | 批次   | 公司   | 截止日期  | 通知链接                                          | 网申链接                          | 备注|
 | ------ | ------ | --------- | ------------------------------------------------- | --------------------------------- | --------------------------------- |
 | 特殊计划 | 小米未来星 | 7.02 - / |[公众号推送](https://mp.weixin.qq.com/s?__biz=MzU5ODI4OTgwNA==&mid=2247490400&idx=1&sn=46cfbb698e585ebf2aa63332fe5c4f85&chksm=fe472783c930ae9593c48ab26f19857e7ac7c4981c4f95e0b3d14bd98904ffc71ba09a066dca&mpshare=1&scene=23&srcid=07117efQ2BMzn9lwhvfSsrMd&sharer_sharetime=1626015463610&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd)| [投递链接](https://app.mokahr.com/campus_apply/xiaomi/286?code=081GeLll2U0tj74KEaml2zcf4G0GeLlH&state=personalCenter#/jobs?project=100006406&page=1)   |
-| 特殊计划 | 腾讯大咖 | 6.03 - / | [推送链接](https://join.qq.com/news_detail.html?id=248) |  官网还没更新 |全年招聘、 6-8月hc多,据说普通计划投递也能评级为特殊计划 | 
+| 特殊计划 | 腾讯大咖 | 6.03 - / | [推送链接](https://join.qq.com/news_detail.html?id=248) |  [投递链接](https://join.qq.com/post.html) |全年招聘但6-8月hc多,据说可作为正式批评级 | 
 | 特殊计划 | 华为天才少年 | 6.09 - / | [推送链接](https://mp.weixin.qq.com/s/dbjH_idp2jeUZ2AoT9aHxA)  |   [投递链接](https://career.huawei.com/reccampportal/portal5/topminds.html)  | 
-| 特殊计划 | 美团北斗计划 | 7.05 - 10.24 | [推送链接](https://mp.weixin.qq.com/s/YSQWGBzr3CpNR-vbth29pQ)  |   [投递链接](https://campus.meituan.com/beidou)  | 据说普通计划投递也能评级为特殊计划 | 
+| 特殊计划 | 美团北斗计划 | 7.05 - 10.24 | [推送链接](https://mp.weixin.qq.com/s/YSQWGBzr3CpNR-vbth29pQ)  |   [投递链接](https://campus.meituan.com/beidou)  | 据说可作为正式批评级 | 
 | 特殊计划 | 快Star |  8.13 - / | [推送链接](https://mp.weixin.qq.com/s/GkvpOIYRC36sUNe9mOJO1w) | [投递链接](https://campus.kuaishou.cn/#/campus/index)  |
 | 特殊计划 |百度AIDU技术精英 | 8.06 - / | [推送链接](https://mp.weixin.qq.com/s/nkeDX-8R41gqHjZRCIEKWw)  |  邮箱投递  | 与提前批正式批不冲突 | 
 | 特殊计划 | 商汤AI先锋卓越人才项目 | 7.29 - / | [推送链接](https://mp.weixin.qq.com/s?__biz=MzIzMTY1NTU1MA==&mid=2247488655&idx=1&sn=2090e9044938818e7a54fe2ef744cc05&chksm=e8a1859edfd60c88f908f9fe07d0f2ef3adc2bab7c89c3eb2ecd515ef67e4d6af27ac8cb3f9f&mpshare=1&scene=23&srcid=0729GVlHgLm2Hdf06IXPyMe0&sharer_sharetime=1627556047508&sharer_shareid=59332ea7c33ee752808701f0287171ae#rd)  |   [投递链接](https://hr.sensetime.com/SU604c56f9bef57c3d1a752c60/pb/school.html?projectCode=100501)  | 不清楚含金量如何 | 
