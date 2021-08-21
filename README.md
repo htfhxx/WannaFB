@@ -45,6 +45,7 @@
 | 正式批 | Vivo | 8.19 - / | [推送链接](https://mp.weixin.qq.com/s/9YJKzbo0j6jEzw1Ybqh_qA) | [投递链接](https://hr.vivo.com/wt/vivo/web/index/CompvivoAboutCampus)  |
 | 正式批 | 京东 | 8.02 - 10.17 | [推送链接](https://mp.weixin.qq.com/s/hog37fDxSZAsUcH45mr2PA) | [投递链接](http://campus.jd.com/api/wx/position/index?type=present#/)  |
 | 正式批 | 虾皮 | 8.16 - 11.19 | [推送链接](https://mp.weixin.qq.com/s/9nL9QEBT4t-b45y8LBW0Uw) | [投递链接](https://app.mokahr.com/campus_apply/shopee/2962#/)  |
+| 正式批 | Hulu | 8.05 - 8.22 | [推送链接](https://mp.weixin.qq.com/s/e119wLzsG8wFBH2jz0QNzw) | [投递链接](https://careers.hulu.com/search-jobs/beijing/27593/1)  |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
