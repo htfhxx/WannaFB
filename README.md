@@ -46,6 +46,8 @@
 | 正式批 | 京东 | 8.02 - 10.17 | [推送链接](https://mp.weixin.qq.com/s/hog37fDxSZAsUcH45mr2PA) | [投递链接](http://campus.jd.com/api/wx/position/index?type=present#/)  |
 | 正式批 | 虾皮 | 8.16 - 11.19 | [推送链接](https://mp.weixin.qq.com/s/9nL9QEBT4t-b45y8LBW0Uw) | [投递链接](https://app.mokahr.com/campus_apply/shopee/2962#/)  |
 | 正式批 | Hulu | 8.05 - 8.22 | [推送链接](https://mp.weixin.qq.com/s/e119wLzsG8wFBH2jz0QNzw) | [投递链接](https://careers.hulu.com/search-jobs/beijing/27593/1)  |
+| 正式批 | FreeWheel | 8.10 - / | [推送链接](https://mp.weixin.qq.com/s/KsehEji99kezqnsi4B1M2g) | [投递链接](http://jobs.freewheel.ourats.com/schoolreq)  |
+| 正式批 | 微软 | 8.16 - 9.30 | [推送链接](https://mp.weixin.qq.com/s/cJpEz0X6DBpfB12WlbOFRA) | [投递链接](https://careers.microsoft.com/students/us/en)  |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
