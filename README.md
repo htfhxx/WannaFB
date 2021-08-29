@@ -48,6 +48,8 @@
 | 正式批 | Hulu | 8.05 - 8.22 | [推送链接](https://mp.weixin.qq.com/s/e119wLzsG8wFBH2jz0QNzw) | [投递链接](https://careers.hulu.com/search-jobs/beijing/27593/1)  |
 | 正式批 | FreeWheel | 8.10 - / | [推送链接](https://mp.weixin.qq.com/s/KsehEji99kezqnsi4B1M2g) | [投递链接](http://jobs.freewheel.ourats.com/schoolreq)  |
 | 正式批 | 微软 | 8.16 - 9.30 | [推送链接](https://mp.weixin.qq.com/s/cJpEz0X6DBpfB12WlbOFRA) | [投递链接](https://careers.microsoft.com/students/us/en)  |
+| 正式批 | Paypal | 8.20 - / | [推送链接](https://mp.weixin.qq.com/s/lE8iid3_M5f6xNBQw-YgXw) | [投递链接](https://www.nowcoder.com/careers/paypal/68590)  |
+| 正式批 | 亚马逊 | 8.06 - / | [推送链接](https://mp.weixin.qq.com/s/MO-0GCD68ECTNEmyUQpt3w) | [投递链接](https://www.amazon.jobs/zh/)  |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
