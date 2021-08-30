@@ -50,6 +50,7 @@
 | 正式批 | 微软 | 8.16 - 9.30 | [推送链接](https://mp.weixin.qq.com/s/cJpEz0X6DBpfB12WlbOFRA) | [投递链接](https://careers.microsoft.com/students/us/en)  |
 | 正式批 | Paypal | 8.20 - / | [推送链接](https://mp.weixin.qq.com/s/lE8iid3_M5f6xNBQw-YgXw) | [投递链接](https://www.nowcoder.com/careers/paypal/68590)  |
 | 正式批 | 亚马逊 | 8.06 - / | [推送链接](https://mp.weixin.qq.com/s/MO-0GCD68ECTNEmyUQpt3w) | [投递链接](https://www.amazon.jobs/zh/)  |
+| 正式批 | 字节 | 8.12 - 10.31 | [推送链接](https://mp.weixin.qq.com/s/brgMg4DHHg-pHZhFt1UCyg) | [投递链接](https://jobs.bytedance.com/campus)  |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
