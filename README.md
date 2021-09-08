@@ -51,6 +51,8 @@
 | 正式批 | Paypal | 8.20 - / | [推送链接](https://mp.weixin.qq.com/s/lE8iid3_M5f6xNBQw-YgXw) | [投递链接](https://www.nowcoder.com/careers/paypal/68590)  |
 | 正式批 | 亚马逊 | 8.06 - / | [推送链接](https://mp.weixin.qq.com/s/MO-0GCD68ECTNEmyUQpt3w) | [投递链接](https://www.amazon.jobs/zh/)  |
 | 正式批 | 字节 | 8.12 - 10.31 | [推送链接](https://mp.weixin.qq.com/s/brgMg4DHHg-pHZhFt1UCyg) | [投递链接](https://jobs.bytedance.com/campus)  |
+| 正式批 | 携程 | 8.03 - 9.08 | [推送链接](https://mp.weixin.qq.com/s/hZWLcOLnP67S-3PtcunR1w) | [投递链接](https://campus.ctrip.com/campus_apply/trip/38950/)  |
+| 正式批 | APPLE | 9.01 - / | [推送链接](https://mp.weixin.qq.com/s/TFIqMEOvLuQ9-w6UR6yF7w) | [投递链接](https://www.apple.com/careers/cn/students.html?cid=social_all_china_wechat_kol_appso_china_students&board_id=JB089)  |
 |  |  | |  |   |
 |  |  | |  |   |
 |  |  | |  |   |
